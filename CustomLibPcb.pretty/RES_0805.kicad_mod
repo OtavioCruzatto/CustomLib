@@ -513,7 +513,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "140d3aca-f638-4716-98f5-b4decb344509")
 	)
-	(model "C:/Users/Otavi/Documents/Embed/HW/Step/RES_CRCW_0805.step"
+	(model "../Step/RES_CRCW_0805.step"
 		(offset
 			(xyz 0 0 0)
 		)
