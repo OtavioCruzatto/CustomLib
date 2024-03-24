@@ -13,7 +13,7 @@
 			(font
 				(face "Calibri")
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.127)
 			)
 		)
 		(render_cache "REF**" 0
