@@ -10,7 +10,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
-			(at 0 3.048 0)
+			(at 0 2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18,7 +18,7 @@
 			)
 		)
 		(property "Value" "1.5NF"
-			(at 0.508 -3.048 0)
+			(at 0.508 -2.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152,7 +152,7 @@
 			)
 		)
 		(property "Manufacturer 4" "KYOCERA"
-			(at -2.794 0.762 0)
+			(at -4.064 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -190,7 +190,7 @@
 		(symbol "CAP CER 1.5NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -229,7 +229,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -334,7 +334,7 @@
 			)
 		)
 		(property "Description" "CAP CER 1.5PF 50V 10% C0G/NP0 SMD 0805"
-			(at 0 5.08 0)
+			(at 19.304 -1.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -480,7 +480,7 @@
 		(symbol "CAP CER 1.5PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -519,24 +519,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -770,7 +758,7 @@
 		(symbol "CAP CER 100NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -809,7 +797,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -1060,7 +1048,7 @@
 		(symbol "CAP CER 100PF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -1099,7 +1087,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -1362,7 +1350,7 @@
 		(symbol "CAP CER 10NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -1401,7 +1389,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -1664,7 +1652,7 @@
 		(symbol "CAP CER 10PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -1703,7 +1691,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -1966,7 +1954,7 @@
 		(symbol "CAP CER 150NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -2005,7 +1993,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -2268,7 +2256,7 @@
 		(symbol "CAP CER 150PF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -2307,7 +2295,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -2570,7 +2558,7 @@
 		(symbol "CAP CER 15NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -2609,36 +2597,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -2872,7 +2836,7 @@
 		(symbol "CAP CER 15PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -2911,36 +2875,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -3174,7 +3114,7 @@
 		(symbol "CAP CER 1NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -3213,36 +3153,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -3476,7 +3392,7 @@
 		(symbol "CAP CER 1PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -3515,7 +3431,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -3778,7 +3694,7 @@
 		(symbol "CAP CER 1UF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -3817,36 +3733,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -4080,7 +3972,7 @@
 		(symbol "CAP CER 2.2NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -4119,7 +4011,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -4382,7 +4274,7 @@
 		(symbol "CAP CER 2.2PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -4421,36 +4313,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -4684,7 +4552,7 @@
 		(symbol "CAP CER 220NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -4723,7 +4591,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -4974,7 +4842,7 @@
 		(symbol "CAP CER 220PF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -5013,7 +4881,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -5276,7 +5144,7 @@
 		(symbol "CAP CER 22NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -5315,24 +5183,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -5566,7 +5422,7 @@
 		(symbol "CAP CER 22PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -5605,36 +5461,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -5868,7 +5700,7 @@
 		(symbol "CAP CER 3.3NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -5907,36 +5739,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -6170,7 +5978,7 @@
 		(symbol "CAP CER 3.3PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -6209,36 +6017,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -6472,7 +6256,7 @@
 		(symbol "CAP CER 330NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -6511,7 +6295,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -6774,7 +6558,7 @@
 		(symbol "CAP CER 330PF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -6813,7 +6597,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -7076,7 +6860,7 @@
 		(symbol "CAP CER 33NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -7115,36 +6899,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -7378,7 +7138,7 @@
 		(symbol "CAP CER 33PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -7417,7 +7177,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -7534,7 +7294,7 @@
 			)
 		)
 		(property "Description" "CAP CER 4.7NF 50V 10% X7R SMD 0805"
-			(at 0 5.08 0)
+			(at 20.066 -2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7680,7 +7440,7 @@
 		(symbol "CAP CER 4.7NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -7719,36 +7479,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -7982,7 +7718,7 @@
 		(symbol "CAP CER 4.7PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -8021,36 +7757,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -8284,7 +7996,7 @@
 		(symbol "CAP CER 470NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -8323,7 +8035,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -8586,7 +8298,7 @@
 		(symbol "CAP CER 470PF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -8625,7 +8337,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -8888,7 +8600,7 @@
 		(symbol "CAP CER 47NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -8927,7 +8639,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -9190,7 +8902,7 @@
 		(symbol "CAP CER 47PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -9229,7 +8941,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -9492,7 +9204,7 @@
 		(symbol "CAP CER 6.8NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -9531,36 +9243,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -9794,7 +9482,7 @@
 		(symbol "CAP CER 6.8PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -9833,7 +9521,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -10084,7 +9772,7 @@
 		(symbol "CAP CER 680PF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -10123,7 +9811,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -10386,7 +10074,7 @@
 		(symbol "CAP CER 68NF 50V 10% X7R SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -10425,24 +10113,12 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
 					(type default)
 					(color 0 0 255 1)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.175 -5.715) (xy 3.175 -5.715)
-				)
-				(stroke
-					(width 0)
-					(type default)
 				)
 				(fill
 					(type none)
@@ -10676,7 +10352,7 @@
 		(symbol "CAP CER 68PF 50V 10% C0G/NP0 SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy -0.508 -1.524) (xy -0.508 1.524)
+					(xy -0.508 -1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0)
@@ -10715,7 +10391,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.524) (xy 0.508 -1.524)
+					(xy 0.508 1.27) (xy 0.508 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -11461,7 +11137,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
-			(at -0.762 3.048 0)
+			(at 0 3.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11469,7 +11145,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at -0.254 -3.048 0)
+			(at 0 -3.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11504,7 +11180,7 @@
 			)
 		)
 		(property "Company code" ""
-			(at 0 0 0)
+			(at 0.762 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11513,7 +11189,7 @@
 			)
 		)
 		(property "Company description" ""
-			(at 0 0 0)
+			(at 0.762 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11522,7 +11198,7 @@
 			)
 		)
 		(property "Category" "RESISTOR"
-			(at 0 0 0)
+			(at 3.302 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11531,7 +11207,7 @@
 			)
 		)
 		(property "Package" "SMD 0805"
-			(at 0 0 0)
+			(at 3.302 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11540,7 +11216,7 @@
 			)
 		)
 		(property "Part number 1" "CRCW08050000Z0EA"
-			(at 0 0 0)
+			(at 4.318 -0.254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11549,7 +11225,7 @@
 			)
 		)
 		(property "Manufacturer 1" "VISHAY"
-			(at 0 0 0)
+			(at 0.762 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11558,7 +11234,7 @@
 			)
 		)
 		(property "Part number 2" "RC0805FR-070RL"
-			(at 0 0 0)
+			(at 2.032 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11567,7 +11243,7 @@
 			)
 		)
 		(property "Manufacturer 2" "YAGEO"
-			(at 0 0 0)
+			(at 0.762 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11576,7 +11252,7 @@
 			)
 		)
 		(property "Part number 3" "ERJ-6GEY0R00V"
-			(at 0 0 0)
+			(at 1.27 0.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11585,7 +11261,7 @@
 			)
 		)
 		(property "Manufacturer 3" "PANASONIC"
-			(at 0 0 0)
+			(at 3.302 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11594,7 +11270,7 @@
 			)
 		)
 		(property "Part number 4" "RMCF0805ZT0R00"
-			(at 0 0 0)
+			(at 2.032 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11603,7 +11279,7 @@
 			)
 		)
 		(property "Manufacturer 4" "STACKPOLE"
-			(at 0 0 0)
+			(at 3.302 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11612,7 +11288,7 @@
 			)
 		)
 		(property "Tolerance" "JUMPER"
-			(at 0 0 0)
+			(at 0.762 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11632,7 +11308,7 @@
 		(symbol "RES 0R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -11657,8 +11333,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -11672,7 +11360,7 @@
 		)
 		(symbol "RES 0R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -11690,7 +11378,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
