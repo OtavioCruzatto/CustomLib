@@ -39716,7 +39716,7 @@
 		(symbol "RES 910R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -39741,8 +39741,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -39756,7 +39768,7 @@
 		)
 		(symbol "RES 910R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -39774,7 +39786,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
