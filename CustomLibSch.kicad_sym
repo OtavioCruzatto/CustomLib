@@ -11576,7 +11576,7 @@
 		(symbol "RES 1.2K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -11601,8 +11601,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -11616,7 +11628,7 @@
 		)
 		(symbol "RES 1.2K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -11634,7 +11646,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -11832,7 +11844,7 @@
 		(symbol "RES 1.5K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -11857,8 +11869,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -11872,7 +11896,7 @@
 		)
 		(symbol "RES 1.5K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -11890,7 +11914,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -12088,7 +12112,7 @@
 		(symbol "RES 1.8K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -12113,8 +12137,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -12128,7 +12164,7 @@
 		)
 		(symbol "RES 1.8K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -12146,7 +12182,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -12344,7 +12380,7 @@
 		(symbol "RES 100K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -12369,8 +12405,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -12384,7 +12432,7 @@
 		)
 		(symbol "RES 100K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -12402,7 +12450,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -12600,7 +12648,7 @@
 		(symbol "RES 100R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -12625,8 +12673,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -12640,7 +12700,7 @@
 		)
 		(symbol "RES 100R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -12658,7 +12718,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -12856,7 +12916,7 @@
 		(symbol "RES 10K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -12881,8 +12941,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -12896,7 +12968,7 @@
 		)
 		(symbol "RES 10K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -12914,7 +12986,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -13112,7 +13184,7 @@
 		(symbol "RES 10R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -13137,8 +13209,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -13152,7 +13236,7 @@
 		)
 		(symbol "RES 10R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -13170,7 +13254,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -13368,7 +13452,7 @@
 		(symbol "RES 120K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -13393,8 +13477,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -13408,7 +13504,7 @@
 		)
 		(symbol "RES 120K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -13426,7 +13522,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -13624,7 +13720,7 @@
 		(symbol "RES 120R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -13649,8 +13745,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -13664,7 +13772,7 @@
 		)
 		(symbol "RES 120R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -13682,7 +13790,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -13880,7 +13988,7 @@
 		(symbol "RES 12K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -13905,8 +14013,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -13920,7 +14040,7 @@
 		)
 		(symbol "RES 12K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -13938,7 +14058,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -14136,7 +14256,7 @@
 		(symbol "RES 12R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -14161,8 +14281,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -14176,7 +14308,7 @@
 		)
 		(symbol "RES 12R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -14194,7 +14326,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -14392,7 +14524,7 @@
 		(symbol "RES 150K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -14417,8 +14549,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -14432,7 +14576,7 @@
 		)
 		(symbol "RES 150K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -14450,7 +14594,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -14648,7 +14792,7 @@
 		(symbol "RES 150R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -14673,8 +14817,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -14688,7 +14844,7 @@
 		)
 		(symbol "RES 150R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -14706,7 +14862,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -14904,7 +15060,7 @@
 		(symbol "RES 15K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -14929,8 +15085,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -14944,7 +15112,7 @@
 		)
 		(symbol "RES 15K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -14962,7 +15130,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -15160,7 +15328,7 @@
 		(symbol "RES 15R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -15185,8 +15353,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -15200,7 +15380,7 @@
 		)
 		(symbol "RES 15R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -15218,7 +15398,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -15416,7 +15596,7 @@
 		(symbol "RES 180K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -15441,8 +15621,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -15456,7 +15648,7 @@
 		)
 		(symbol "RES 180K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -15474,7 +15666,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -15672,7 +15864,7 @@
 		(symbol "RES 180R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -15697,8 +15889,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -15712,7 +15916,7 @@
 		)
 		(symbol "RES 180R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -15730,7 +15934,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -15928,7 +16132,7 @@
 		(symbol "RES 18K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -15953,8 +16157,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -15968,7 +16184,7 @@
 		)
 		(symbol "RES 18K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -15986,7 +16202,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -16184,7 +16400,7 @@
 		(symbol "RES 18R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -16209,8 +16425,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -16224,7 +16452,7 @@
 		)
 		(symbol "RES 18R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -16242,7 +16470,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -16440,7 +16668,7 @@
 		(symbol "RES 1K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -16465,8 +16693,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -16480,7 +16720,7 @@
 		)
 		(symbol "RES 1K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -16498,7 +16738,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -16696,7 +16936,7 @@
 		(symbol "RES 1M 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -16721,8 +16961,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -16736,7 +16988,7 @@
 		)
 		(symbol "RES 1M 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -16754,7 +17006,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -16952,7 +17204,7 @@
 		(symbol "RES 1R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -16977,8 +17229,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -16992,7 +17256,7 @@
 		)
 		(symbol "RES 1R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -17010,7 +17274,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -17208,7 +17472,7 @@
 		(symbol "RES 2.2K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -17233,8 +17497,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -17248,7 +17524,7 @@
 		)
 		(symbol "RES 2.2K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -17266,7 +17542,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -17464,7 +17740,7 @@
 		(symbol "RES 2.7K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -17489,8 +17765,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -17504,7 +17792,7 @@
 		)
 		(symbol "RES 2.7K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -17522,7 +17810,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -17720,7 +18008,7 @@
 		(symbol "RES 200K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -17745,8 +18033,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -17760,7 +18060,7 @@
 		)
 		(symbol "RES 200K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -17778,7 +18078,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -17976,7 +18276,7 @@
 		(symbol "RES 200R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -18001,8 +18301,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -18016,7 +18328,7 @@
 		)
 		(symbol "RES 200R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -18034,7 +18346,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -18232,7 +18544,7 @@
 		(symbol "RES 20K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -18257,8 +18569,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -18272,7 +18596,7 @@
 		)
 		(symbol "RES 20K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -18290,7 +18614,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -18488,7 +18812,7 @@
 		(symbol "RES 20R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -18513,8 +18837,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -18528,7 +18864,7 @@
 		)
 		(symbol "RES 20R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -18546,7 +18882,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -18744,7 +19080,7 @@
 		(symbol "RES 220K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -18769,8 +19105,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -18784,7 +19132,7 @@
 		)
 		(symbol "RES 220K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -18802,7 +19150,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -19000,7 +19348,7 @@
 		(symbol "RES 220R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -19025,8 +19373,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -19040,7 +19400,7 @@
 		)
 		(symbol "RES 220R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -19058,7 +19418,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -19256,7 +19616,7 @@
 		(symbol "RES 22K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -19281,8 +19641,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -19296,7 +19668,7 @@
 		)
 		(symbol "RES 22K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -19314,7 +19686,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -19512,7 +19884,7 @@
 		(symbol "RES 22R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -19537,8 +19909,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -19552,7 +19936,7 @@
 		)
 		(symbol "RES 22R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -19570,7 +19954,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -19768,7 +20152,7 @@
 		(symbol "RES 270K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -19793,8 +20177,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -19808,7 +20204,7 @@
 		)
 		(symbol "RES 270K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -19826,7 +20222,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -20024,7 +20420,7 @@
 		(symbol "RES 270R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -20049,8 +20445,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -20064,7 +20472,7 @@
 		)
 		(symbol "RES 270R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -20082,7 +20490,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -20280,7 +20688,7 @@
 		(symbol "RES 27K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -20305,8 +20713,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -20320,7 +20740,7 @@
 		)
 		(symbol "RES 27K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -20338,7 +20758,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -20536,7 +20956,7 @@
 		(symbol "RES 27R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -20561,8 +20981,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -20576,7 +21008,7 @@
 		)
 		(symbol "RES 27R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -20594,7 +21026,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -20792,7 +21224,7 @@
 		(symbol "RES 2K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -20817,8 +21249,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -20832,7 +21276,7 @@
 		)
 		(symbol "RES 2K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -20850,7 +21294,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -21048,7 +21492,7 @@
 		(symbol "RES 2M 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -21073,8 +21517,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -21088,7 +21544,7 @@
 		)
 		(symbol "RES 2M 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -21106,7 +21562,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -21304,7 +21760,7 @@
 		(symbol "RES 2R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -21329,8 +21785,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -21344,7 +21812,7 @@
 		)
 		(symbol "RES 2R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -21362,7 +21830,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -21560,7 +22028,7 @@
 		(symbol "RES 3.3K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -21585,8 +22053,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -21600,7 +22080,7 @@
 		)
 		(symbol "RES 3.3K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -21618,7 +22098,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -21816,7 +22296,7 @@
 		(symbol "RES 3.6K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -21841,8 +22321,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -21856,7 +22348,7 @@
 		)
 		(symbol "RES 3.6K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -21874,7 +22366,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -22072,7 +22564,7 @@
 		(symbol "RES 3.9K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -22097,8 +22589,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -22112,7 +22616,7 @@
 		)
 		(symbol "RES 3.9K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -22130,7 +22634,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -22328,7 +22832,7 @@
 		(symbol "RES 300K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -22353,8 +22857,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -22368,7 +22884,7 @@
 		)
 		(symbol "RES 300K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -22386,7 +22902,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -22584,7 +23100,7 @@
 		(symbol "RES 300R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -22609,8 +23125,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -22624,7 +23152,7 @@
 		)
 		(symbol "RES 300R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -22642,7 +23170,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -22840,7 +23368,7 @@
 		(symbol "RES 30K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -22865,8 +23393,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -22880,7 +23420,7 @@
 		)
 		(symbol "RES 30K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -22898,7 +23438,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -23096,7 +23636,7 @@
 		(symbol "RES 30R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -23121,8 +23661,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -23136,7 +23688,7 @@
 		)
 		(symbol "RES 30R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -23154,7 +23706,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -23352,7 +23904,7 @@
 		(symbol "RES 330K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -23377,8 +23929,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -23392,7 +23956,7 @@
 		)
 		(symbol "RES 330K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -23410,7 +23974,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -23608,7 +24172,7 @@
 		(symbol "RES 330R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -23633,8 +24197,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -23648,7 +24224,7 @@
 		)
 		(symbol "RES 330R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -23666,7 +24242,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -23864,7 +24440,7 @@
 		(symbol "RES 33K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -23889,8 +24465,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -23904,7 +24492,7 @@
 		)
 		(symbol "RES 33K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -23922,7 +24510,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -24120,7 +24708,7 @@
 		(symbol "RES 33R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -24145,8 +24733,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -24160,7 +24760,7 @@
 		)
 		(symbol "RES 33R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -24178,7 +24778,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -24376,7 +24976,7 @@
 		(symbol "RES 360K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -24401,8 +25001,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -24416,7 +25028,7 @@
 		)
 		(symbol "RES 360K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -24434,7 +25046,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -24632,7 +25244,7 @@
 		(symbol "RES 360R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -24657,8 +25269,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -24672,7 +25296,7 @@
 		)
 		(symbol "RES 360R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -24690,7 +25314,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -24888,7 +25512,7 @@
 		(symbol "RES 36K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -24913,8 +25537,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -24928,7 +25564,7 @@
 		)
 		(symbol "RES 36K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -24946,7 +25582,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -25144,7 +25780,7 @@
 		(symbol "RES 36R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -25169,8 +25805,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -25184,7 +25832,7 @@
 		)
 		(symbol "RES 36R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -25202,7 +25850,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -25400,7 +26048,7 @@
 		(symbol "RES 390K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -25425,8 +26073,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -25440,7 +26100,7 @@
 		)
 		(symbol "RES 390K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -25458,7 +26118,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -25656,7 +26316,7 @@
 		(symbol "RES 390R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -25681,8 +26341,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -25696,7 +26368,7 @@
 		)
 		(symbol "RES 390R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -25714,7 +26386,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -25912,7 +26584,7 @@
 		(symbol "RES 39K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -25937,8 +26609,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -25952,7 +26636,7 @@
 		)
 		(symbol "RES 39K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -25970,7 +26654,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -26168,7 +26852,7 @@
 		(symbol "RES 39R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -26193,8 +26877,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -26208,7 +26904,7 @@
 		)
 		(symbol "RES 39R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -26226,7 +26922,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -26424,7 +27120,7 @@
 		(symbol "RES 3K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -26449,8 +27145,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -26464,7 +27172,7 @@
 		)
 		(symbol "RES 3K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -26482,7 +27190,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -26680,7 +27388,7 @@
 		(symbol "RES 3M 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -26705,8 +27413,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -26720,7 +27440,7 @@
 		)
 		(symbol "RES 3M 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -26738,7 +27458,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -26936,7 +27656,7 @@
 		(symbol "RES 3R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -26961,8 +27681,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -26976,7 +27708,7 @@
 		)
 		(symbol "RES 3R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -26994,7 +27726,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -27192,7 +27924,7 @@
 		(symbol "RES 4.3K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -27217,8 +27949,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -27232,7 +27976,7 @@
 		)
 		(symbol "RES 4.3K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -27250,7 +27994,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -27448,7 +28192,7 @@
 		(symbol "RES 4.7K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -27473,8 +28217,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -27488,7 +28244,7 @@
 		)
 		(symbol "RES 4.7K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -27506,7 +28262,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -27704,7 +28460,7 @@
 		(symbol "RES 4.7M 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -27729,8 +28485,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -27744,7 +28512,7 @@
 		)
 		(symbol "RES 4.7M 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -27762,7 +28530,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -27960,7 +28728,7 @@
 		(symbol "RES 4.7R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -27985,8 +28753,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -28000,7 +28780,7 @@
 		)
 		(symbol "RES 4.7R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -28018,7 +28798,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -28216,7 +28996,7 @@
 		(symbol "RES 430K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -28241,8 +29021,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -28256,7 +29048,7 @@
 		)
 		(symbol "RES 430K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -28274,7 +29066,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -28472,7 +29264,7 @@
 		(symbol "RES 430R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -28497,8 +29289,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -28512,7 +29316,7 @@
 		)
 		(symbol "RES 430R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -28530,7 +29334,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -28728,7 +29532,7 @@
 		(symbol "RES 43K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -28753,8 +29557,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -28768,7 +29584,7 @@
 		)
 		(symbol "RES 43K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -28786,7 +29602,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -28984,7 +29800,7 @@
 		(symbol "RES 43R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -29009,8 +29825,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -29024,7 +29852,7 @@
 		)
 		(symbol "RES 43R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -29042,7 +29870,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -29240,7 +30068,7 @@
 		(symbol "RES 470K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -29265,8 +30093,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -29280,7 +30120,7 @@
 		)
 		(symbol "RES 470K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -29298,7 +30138,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -29496,7 +30336,7 @@
 		(symbol "RES 470R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -29521,8 +30361,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -29536,7 +30388,7 @@
 		)
 		(symbol "RES 470R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -29554,7 +30406,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -29752,7 +30604,7 @@
 		(symbol "RES 47K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -29777,8 +30629,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -29792,7 +30656,7 @@
 		)
 		(symbol "RES 47K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -29810,7 +30674,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -30008,7 +30872,7 @@
 		(symbol "RES 47R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -30033,8 +30897,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -30048,7 +30924,7 @@
 		)
 		(symbol "RES 47R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -30066,7 +30942,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -30264,7 +31140,7 @@
 		(symbol "RES 5.1K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -30289,8 +31165,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -30304,7 +31192,7 @@
 		)
 		(symbol "RES 5.1K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -30322,7 +31210,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -30520,7 +31408,7 @@
 		(symbol "RES 5.6K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -30545,8 +31433,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -30560,7 +31460,7 @@
 		)
 		(symbol "RES 5.6K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -30578,7 +31478,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -30776,7 +31676,7 @@
 		(symbol "RES 510K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -30801,8 +31701,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -30816,7 +31728,7 @@
 		)
 		(symbol "RES 510K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -30834,7 +31746,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -31032,7 +31944,7 @@
 		(symbol "RES 510R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -31057,8 +31969,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -31072,7 +31996,7 @@
 		)
 		(symbol "RES 510R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -31090,7 +32014,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -31288,7 +32212,7 @@
 		(symbol "RES 51K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -31313,8 +32237,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -31328,7 +32264,7 @@
 		)
 		(symbol "RES 51K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -31346,7 +32282,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -31544,7 +32480,7 @@
 		(symbol "RES 51R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -31569,8 +32505,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -31584,7 +32532,7 @@
 		)
 		(symbol "RES 51R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -31602,7 +32550,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -31800,7 +32748,7 @@
 		(symbol "RES 560K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -31825,8 +32773,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -31840,7 +32800,7 @@
 		)
 		(symbol "RES 560K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -31858,7 +32818,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -32056,7 +33016,7 @@
 		(symbol "RES 560R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -32081,8 +33041,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -32096,7 +33068,7 @@
 		)
 		(symbol "RES 560R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -32114,7 +33086,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -32312,7 +33284,7 @@
 		(symbol "RES 56K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -32337,8 +33309,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -32352,7 +33336,7 @@
 		)
 		(symbol "RES 56K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -32370,7 +33354,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -32568,7 +33552,7 @@
 		(symbol "RES 56R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -32593,8 +33577,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -32608,7 +33604,7 @@
 		)
 		(symbol "RES 56R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -32626,7 +33622,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -32824,7 +33820,7 @@
 		(symbol "RES 6.2K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -32849,8 +33845,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -32864,7 +33872,7 @@
 		)
 		(symbol "RES 6.2K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -32882,7 +33890,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -33080,7 +34088,7 @@
 		(symbol "RES 6.8K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -33105,8 +34113,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -33120,7 +34140,7 @@
 		)
 		(symbol "RES 6.8K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -33138,7 +34158,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -33336,7 +34356,7 @@
 		(symbol "RES 620K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -33361,8 +34381,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -33376,7 +34408,7 @@
 		)
 		(symbol "RES 620K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -33394,7 +34426,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -33592,7 +34624,7 @@
 		(symbol "RES 620R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -33617,8 +34649,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -33632,7 +34676,7 @@
 		)
 		(symbol "RES 620R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -33650,7 +34694,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -33848,7 +34892,7 @@
 		(symbol "RES 62K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -33873,8 +34917,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -33888,7 +34944,7 @@
 		)
 		(symbol "RES 62K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -33906,7 +34962,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -34104,7 +35160,7 @@
 		(symbol "RES 62R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -34129,8 +35185,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -34144,7 +35212,7 @@
 		)
 		(symbol "RES 62R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -34162,7 +35230,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -34360,7 +35428,7 @@
 		(symbol "RES 680K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -34385,8 +35453,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -34400,7 +35480,7 @@
 		)
 		(symbol "RES 680K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -34418,7 +35498,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -34616,7 +35696,7 @@
 		(symbol "RES 680R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -34641,8 +35721,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -34656,7 +35748,7 @@
 		)
 		(symbol "RES 680R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -34674,7 +35766,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -34872,7 +35964,7 @@
 		(symbol "RES 68K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -34897,8 +35989,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -34912,7 +36016,7 @@
 		)
 		(symbol "RES 68K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -34930,7 +36034,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -35128,7 +36232,7 @@
 		(symbol "RES 68R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -35153,8 +36257,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -35168,7 +36284,7 @@
 		)
 		(symbol "RES 68R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -35186,7 +36302,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -35384,7 +36500,7 @@
 		(symbol "RES 7.5K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -35409,8 +36525,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -35424,7 +36552,7 @@
 		)
 		(symbol "RES 7.5K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -35442,7 +36570,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -35640,7 +36768,7 @@
 		(symbol "RES 750K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -35665,8 +36793,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -35680,7 +36820,7 @@
 		)
 		(symbol "RES 750K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -35698,7 +36838,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -35896,7 +37036,7 @@
 		(symbol "RES 750R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -35921,8 +37061,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -35936,7 +37088,7 @@
 		)
 		(symbol "RES 750R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -35954,7 +37106,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -36152,7 +37304,7 @@
 		(symbol "RES 75K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -36177,8 +37329,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -36192,7 +37356,7 @@
 		)
 		(symbol "RES 75K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -36210,7 +37374,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -36408,7 +37572,7 @@
 		(symbol "RES 75R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -36433,8 +37597,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -36448,7 +37624,7 @@
 		)
 		(symbol "RES 75R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -36466,7 +37642,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -36664,7 +37840,7 @@
 		(symbol "RES 8.2K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -36689,8 +37865,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -36704,7 +37892,7 @@
 		)
 		(symbol "RES 8.2K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -36722,7 +37910,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -36920,7 +38108,7 @@
 		(symbol "RES 820K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -36945,8 +38133,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -36960,7 +38160,7 @@
 		)
 		(symbol "RES 820K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -36978,7 +38178,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -37176,7 +38376,7 @@
 		(symbol "RES 820R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -37201,8 +38401,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -37216,7 +38428,7 @@
 		)
 		(symbol "RES 820R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -37234,7 +38446,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -37432,7 +38644,7 @@
 		(symbol "RES 82K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -37457,8 +38669,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -37472,7 +38696,7 @@
 		)
 		(symbol "RES 82K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -37490,7 +38714,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -37688,7 +38912,7 @@
 		(symbol "RES 82R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -37713,8 +38937,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -37728,7 +38964,7 @@
 		)
 		(symbol "RES 82R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -37746,7 +38982,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -37944,7 +39180,7 @@
 		(symbol "RES 9.1K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -37969,8 +39205,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -37984,7 +39232,7 @@
 		)
 		(symbol "RES 9.1K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -38002,7 +39250,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -38200,7 +39448,7 @@
 		(symbol "RES 910K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -38225,8 +39473,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -38240,7 +39500,7 @@
 		)
 		(symbol "RES 910K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -38258,7 +39518,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -38456,7 +39716,7 @@
 		(symbol "RES 910R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -38481,8 +39741,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -38496,7 +39768,7 @@
 		)
 		(symbol "RES 910R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -38514,7 +39786,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -38712,7 +39984,7 @@
 		(symbol "RES 91K 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -38737,8 +40009,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -38752,7 +40036,7 @@
 		)
 		(symbol "RES 91K 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -38770,7 +40054,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -38968,7 +40252,7 @@
 		(symbol "RES 91R 1% SMD 0805_0_1"
 			(polyline
 				(pts
-					(xy 1.778 0) (xy 2.54 0)
+					(xy 2.54 0) (xy 5.08 0)
 				)
 				(stroke
 					(width 0)
@@ -38993,8 +40277,20 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.048 0) (xy -2.54 1.524) (xy -1.778 -1.524) (xy -1.016 1.524) (xy -0.254 -1.524)
-					(xy 0.508 1.524) (xy 1.27 -1.524) (xy 1.778 0)
+					(xy 3.175 0.635) (xy 3.175 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -2.286 0) (xy -1.778 1.27) (xy -1.016 -1.27) (xy -0.254 1.27) (xy 0.508 -1.27)
+					(xy 1.27 1.27) (xy 2.032 -1.27) (xy 2.54 0)
 				)
 				(stroke
 					(width 0)
@@ -39008,7 +40304,7 @@
 		)
 		(symbol "RES 91R 1% SMD 0805_1_1"
 			(pin passive line
-				(at -6.35 0 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "1"
 					(effects
@@ -39026,7 +40322,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at 7.62 0 180)
 				(length 2.54)
 				(name "2"
 					(effects
