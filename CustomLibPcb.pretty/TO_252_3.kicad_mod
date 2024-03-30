@@ -301,30 +301,30 @@
 	(solder_mask_margin 0.1016)
 	(attr smd)
 	(fp_line
-		(start -3.3626 -6.67959)
-		(end 3.371918 -6.67959)
+		(start -3.35 -6.67959)
+		(end 3.371918 -6.678566)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
 		(uuid "02166d9b-85bc-4432-a19f-d48b105a0712")
 	)
 	(fp_line
-		(start -3.3626 5.677542)
-		(end -3.3626 -6.67959)
+		(start -3.35 5.677542)
+		(end -3.35 -6.67959)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
 		(uuid "e20d77f2-b85c-4ac4-ba0d-ee37bc1dc148")
 	)
 	(fp_line
-		(start -3.3626 5.677542)
+		(start -3.35 5.677542)
 		(end 3.371918 5.677542)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -334,7 +334,7 @@
 		(start 3.371918 5.677542)
 		(end 3.371918 -6.67959)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -342,9 +342,9 @@
 	)
 	(fp_line
 		(start -3.35 -6.678566)
-		(end 3.384518 -6.678566)
+		(end 3.371918 -6.678566)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -354,7 +354,7 @@
 		(start -3.35 5.678566)
 		(end -3.35 -6.678566)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -362,19 +362,19 @@
 	)
 	(fp_line
 		(start -3.35 5.678566)
-		(end 3.384518 5.678566)
+		(end 3.371918 5.678566)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
 		(uuid "afc51b7c-aa38-4980-b97b-128c1498c8f4")
 	)
 	(fp_line
-		(start 3.384518 5.678566)
-		(end 3.384518 -6.678566)
+		(start 3.371918 5.678566)
+		(end 3.371918 -6.678566)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")

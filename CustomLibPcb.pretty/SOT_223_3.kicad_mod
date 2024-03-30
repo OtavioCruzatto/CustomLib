@@ -340,7 +340,7 @@
 		(start -3.45 -1.95)
 		(end 3.5 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -350,7 +350,7 @@
 		(start -3.45 1.95)
 		(end -3.45 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -360,7 +360,7 @@
 		(start -3.45 1.95)
 		(end 3.5 1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -370,7 +370,7 @@
 		(start 3.5 1.95)
 		(end 3.5 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -380,7 +380,7 @@
 		(start -3.45 3.8)
 		(end -3.45 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -390,7 +390,7 @@
 		(start -1.75 -3.8)
 		(end -1.75 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -400,7 +400,7 @@
 		(start -1.75 -3.8)
 		(end 1.75 -3.8)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -410,7 +410,7 @@
 		(start -1.75 -1.95)
 		(end -3.45 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -420,7 +420,7 @@
 		(start 1.75 -3.8)
 		(end 1.75 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -430,7 +430,7 @@
 		(start 3.5 -1.95)
 		(end 1.75 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -440,7 +440,7 @@
 		(start 3.5 3.8)
 		(end -3.45 3.8)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -450,7 +450,7 @@
 		(start 3.5 3.8)
 		(end 3.5 -1.95)
 		(stroke
-			(width 0.254)
+			(width 0.2)
 			(type default)
 		)
 		(layer "F.Fab")
