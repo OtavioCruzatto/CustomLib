@@ -10449,7 +10449,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "Q"
+		(property "Reference" "U"
 			(at -5.842 14.478 0)
 			(effects
 				(font
@@ -10657,6 +10657,34 @@
 				)
 				(fill
 					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 7.62) (xy -6.858 7.874) (xy -6.858 7.366) (xy -6.35 7.62)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.35 7.874) (xy 6.858 7.62) (xy 6.35 7.366) (xy 6.35 7.874)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
 				)
 			)
 			(polyline
