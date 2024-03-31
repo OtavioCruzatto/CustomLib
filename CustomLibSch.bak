@@ -10656,6 +10656,664 @@
 			)
 		)
 	)
+	(symbol "IC REG LIN 1117 POS ADJ 800MA SOT-223"
+		(pin_names
+			(offset 0.635)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -12.192 21.336 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM1117-ADJ"
+			(at -8.636 18.796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CustomLibPcb:SOT_223_3"
+			(at -6.096 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -8.89 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC REG LIN 1117 POS ADJ 800MA SOT-223"
+			(at -3.556 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Company code" ""
+			(at -8.89 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Company description" ""
+			(at -8.89 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "IC"
+			(at -5.334 28.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD SOT-223"
+			(at -7.874 28.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 1" "LM1117IMPX-ADJ/NOPB"
+			(at -7.366 28.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "TEXAS INSTRUMENTS"
+			(at -6.35 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 2" "LM1117MPX-ADJ/NOPB"
+			(at -6.858 28.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "TEXAS INSTRUMENTS"
+			(at -6.604 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 3" "LM1117IMP-ADJ/NOPB"
+			(at -7.62 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 3" "TEXAS INSTRUMENTS"
+			(at -7.62 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 4" "LM1117MP-ADJ/NOPB"
+			(at -9.906 28.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 4" "TEXAS INSTRUMENTS"
+			(at -6.604 28.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current" "0.8A"
+			(at -7.874 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dropout (max)" "1.2V @ 800mA"
+			(at -5.588 28.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "IC REG LIN 1117 POS ADJ 800MA SOT-223"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "IC REG LIN 1117 POS ADJ 800MA SOT-223_1_1"
+			(polyline
+				(pts
+					(xy -12.7 0) (xy 12.7 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 72 72 0 1)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -12.7 15.24) (xy 12.7 15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 72 72 0 1)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 17.78) (xy 0 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 72 72 0 1)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -13.716 2.54) (xy -12.7 1.778) (xy -12.7 3.302) (xy -13.716 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy -13.716 10.16) (xy -12.7 9.398) (xy -12.7 10.922) (xy -13.716 10.16)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy -12.7 5.08) (xy -13.716 5.842) (xy -13.716 4.318) (xy -12.7 5.08)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy -12.7 12.7) (xy -13.716 13.462) (xy -13.716 11.938) (xy -12.7 12.7)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy 12.7 2.54) (xy 13.716 1.778) (xy 13.716 3.302) (xy 12.7 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy 12.7 10.16) (xy 13.716 9.398) (xy 13.716 10.922) (xy 12.7 10.16)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy 13.716 5.08) (xy 12.7 5.842) (xy 12.7 4.318) (xy 13.716 5.08)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy 13.716 12.7) (xy 12.7 13.462) (xy 12.7 11.938) (xy 13.716 12.7)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 0 1)
+				)
+				(fill
+					(type color)
+					(color 0 0 0 1)
+				)
+			)
+			(polyline
+				(pts
+					(xy -12.7 17.78) (xy -12.7 -17.78) (xy 12.7 -17.78) (xy 12.7 17.78) (xy -12.7 17.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 72 72 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(text "CMOS"
+				(at -6.858 16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(color 72 72 0 1)
+					)
+				)
+			)
+			(text "RS232"
+				(at 6.604 16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(color 72 72 0 1)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -2.54 0)
+				(length 5.08)
+				(name "C1+"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 5.08 0)
+				(length 5.08)
+				(name "T2IN"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 12.7 0)
+				(length 5.08)
+				(name "T1IN"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 10.16 0)
+				(length 5.08)
+				(name "R1OUT"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 10.16 180)
+				(length 5.08)
+				(name "R1IN"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 12.7 180)
+				(length 5.08)
+				(name "T1OUT"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 -15.24 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 -2.54 180)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 -7.62 180)
+				(length 5.08)
+				(name "V+"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -5.08 0)
+				(length 5.08)
+				(name "C1-"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -12.7 0)
+				(length 5.08)
+				(name "C2+"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -15.24 0)
+				(length 5.08)
+				(name "C2-"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 -10.16 180)
+				(length 5.08)
+				(name "V-"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 5.08 180)
+				(length 5.08)
+				(name "T2OUT"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 2.54 180)
+				(length 5.08)
+				(name "R2IN"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 2.54 0)
+				(length 5.08)
+				(name "R2OUT"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "IC TRANSCEIVER FULL 2/2 MAX3232 16-SOIC"
 		(pin_names
 			(offset 0.635)
@@ -11969,7 +12627,7 @@
 			)
 		)
 		(property "Value" "RED"
-			(at 1.778 -4.826 0)
+			(at 0.508 -4.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
