@@ -10466,7 +10466,285 @@
 			)
 		)
 	)
-	(symbol "IC OPAMP LM358 GP 2 CIRCUIT 8-SOIC"
+	(symbol "DIODE GEN PURP 4148 100V 200MA SOD-80"
+		(pin_numbers hide)
+		(pin_names
+			(offset 0) hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at -0.254 2.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "200mA/100V"
+			(at 0.762 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CustomLibPcb:SOD_80"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE GEN PURP 4148 100V 200MA SOD-80"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Company code" ""
+			(at 1.016 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Company description" ""
+			(at 1.016 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "DIODE"
+			(at 3.302 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD SOD-80"
+			(at 3.048 1.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 1" "FDLL4148-D87Z"
+			(at 4.318 -0.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ONSEMI"
+			(at 0.762 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 2" "FDLL4148"
+			(at 2.032 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "ONSEMI"
+			(at 0.762 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 3" "LL4148"
+			(at 1.27 0.762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 3" "ONSEMI"
+			(at 3.302 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 4" "LL4148-M-08"
+			(at 2.032 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 4" "VISHAY"
+			(at 3.302 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current" "200mA"
+			(at 0.762 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "100V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "DIODE GEN PURP 4148 100V 200MA SOD-80"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "DIODE GEN PURP 4148 100V 200MA SOD-80_0_1"
+			(polyline
+				(pts
+					(xy -5.08 0) (xy -1.27 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 255 1)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.27 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 255 1)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 0) (xy 5.08 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 255 1)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 0) (xy -1.27 1.27) (xy -1.27 -1.27) (xy 1.27 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 0 0 255 1)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "DIODE GEN PURP 4148 100V 200MA SOD-80_1_1"
+			(pin passive line
+				(at -7.62 0 0)
+				(length 2.54)
+				(name "Anode"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "Cathode"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "IC OPAMP LM358 GEN PURP 2 CIRCUIT 8-SOIC"
 		(pin_names
 			(offset 0.635)
 		)
@@ -10507,7 +10785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC OPAMP LM358 GP 2 CIRCUIT 8-SOIC"
+		(property "Description" "IC OPAMP LM358 GEN PURP 2 CIRCUIT 8-SOIC"
 			(at -11.176 5.08 0)
 			(effects
 				(font
@@ -10650,7 +10928,7 @@
 				)
 			)
 		)
-		(property "ki_keywords" "IC OPAMP LM358 GP 2 CIRCUIT 8-SOIC"
+		(property "ki_keywords" "IC OPAMP LM358 GEN PURP 2 CIRCUIT 8-SOIC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10659,7 +10937,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "IC OPAMP LM358 GP 2 CIRCUIT 8-SOIC_1_1"
+		(symbol "IC OPAMP LM358 GEN PURP 2 CIRCUIT 8-SOIC_1_1"
 			(polyline
 				(pts
 					(xy -7.62 10.16) (xy -7.62 -10.16) (xy -7.62 -10.16) (xy 12.7 0) (xy -7.62 10.16)
@@ -10764,7 +11042,7 @@
 				)
 			)
 		)
-		(symbol "IC OPAMP LM358 GP 2 CIRCUIT 8-SOIC_2_1"
+		(symbol "IC OPAMP LM358 GEN PURP 2 CIRCUIT 8-SOIC_2_1"
 			(polyline
 				(pts
 					(xy -7.62 10.16) (xy -7.62 -10.16) (xy -7.62 -10.16) (xy 12.7 0) (xy -7.62 10.16)
