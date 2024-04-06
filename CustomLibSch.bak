@@ -10288,6 +10288,1404 @@
 			)
 		)
 	)
+	(symbol "IC MCU STM32F446RET6 32BIT 512KB FLASH LQFP-64"
+		(pin_names
+			(offset 0.635)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -22.098 41.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "STM32F446RET6"
+			(at -14.986 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CustomLibPcb:LQFP_64_LONG_PADS"
+			(at -0.762 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -7.62 46.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC MCU STM32F446RET6 32BIT 512KB FLASH LQFP-64"
+			(at 0.254 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Company code" ""
+			(at -7.62 46.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Company description" ""
+			(at -7.62 46.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "IC"
+			(at -0.762 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD LQFP-64"
+			(at -0.762 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 1" "STM32F446RET6"
+			(at -0.762 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 1" "ST MICROELECTRONICS"
+			(at -0.762 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 2" ""
+			(at -0.762 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" ""
+			(at -0.762 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 3" ""
+			(at -7.62 46.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 3" ""
+			(at -7.62 46.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number 4" ""
+			(at -7.62 46.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 4" ""
+			(at -7.62 46.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash" "512 kbytes"
+			(at -0.508 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RAM" "128 kbytes"
+			(at -0.254 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "1.7 - 3.6V"
+			(at -1.016 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max freq." "180 MHz"
+			(at -0.254 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_locked" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "IC MCU STM32F446RET6 32BIT 512KB FLASH LQFP-64"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "IC MCU STM32F446RET6 32BIT 512KB FLASH LQFP-64_1_0"
+			(pin passive line
+				(at 27.94 27.94 180)
+				(length 5.08)
+				(name "PC2"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 25.4 180)
+				(length 5.08)
+				(name "PC3"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 33.02 0)
+				(length 5.08)
+				(name "PA1"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 30.48 0)
+				(length 5.08)
+				(name "PA2"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 27.94 0)
+				(length 5.08)
+				(name "PA3"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 0 180)
+				(length 5.08)
+				(name "PC13"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 25.4 0)
+				(length 5.08)
+				(name "PA4"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 22.86 0)
+				(length 5.08)
+				(name "PA5"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 20.32 0)
+				(length 5.08)
+				(name "PA6"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 17.78 0)
+				(length 5.08)
+				(name "PA7"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 22.86 180)
+				(length 5.08)
+				(name "PC4"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 20.32 180)
+				(length 5.08)
+				(name "PC5"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -2.54 0)
+				(length 5.08)
+				(name "PB0"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -5.08 0)
+				(length 5.08)
+				(name "PB1"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -20.32 0)
+				(length 5.08)
+				(name "PB10"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -25.4 0)
+				(length 5.08)
+				(name "PB12/OTG_HS_ID"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -27.94 0)
+				(length 5.08)
+				(name "PB13/OTG_HS_VBUS"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -30.48 0)
+				(length 5.08)
+				(name "PB14/OTG_HS_DM"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -33.02 0)
+				(length 5.08)
+				(name "PB15/OTG_HS_DP"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 17.78 180)
+				(length 5.08)
+				(name "PC6"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 15.24 180)
+				(length 5.08)
+				(name "PC7"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 12.7 180)
+				(length 5.08)
+				(name "PC8"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 10.16 180)
+				(length 5.08)
+				(name "PC9"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 15.24 0)
+				(length 5.08)
+				(name "PA8"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 10.16 0)
+				(length 5.08)
+				(name "PA9/OTG_FS_VBUS"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "42"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 7.62 0)
+				(length 5.08)
+				(name "PA10/OTG_FS_ID"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 5.08 0)
+				(length 5.08)
+				(name "PA11/OTG_FS_DM"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 2.54 0)
+				(length 5.08)
+				(name "PA12/OTG_FS_DP"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 7.62 180)
+				(length 5.08)
+				(name "PC10"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "51"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 5.08 180)
+				(length 5.08)
+				(name "PC11"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "52"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 2.54 180)
+				(length 5.08)
+				(name "PC12"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "53"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 -5.08 180)
+				(length 5.08)
+				(name "PD2"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "54"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -7.62 0)
+				(length 5.08)
+				(name "PB5"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "57"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -10.16 0)
+				(length 5.08)
+				(name "PB6"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "58"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -12.7 0)
+				(length 5.08)
+				(name "PB7"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "59"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -15.24 0)
+				(length 5.08)
+				(name "PB8"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "61"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -17.78 0)
+				(length 5.08)
+				(name "PB9"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "62"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 33.02 180)
+				(length 5.08)
+				(name "PC0"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 30.48 180)
+				(length 5.08)
+				(name "PC1"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "IC MCU STM32F446RET6 32BIT 512KB FLASH LQFP-64_1_1"
+			(polyline
+				(pts
+					(xy -22.86 38.1) (xy -22.86 -38.1) (xy 22.86 -38.1) (xy 22.86 38.1) (xy -22.86 38.1)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 72 72 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "IC MCU STM32F446RET6 32BIT 512KB FLASH LQFP-64_2_0"
+			(pin passive line
+				(at 27.94 30.48 180)
+				(length 5.08)
+				(name "VSSA/VREF-"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 33.02 180)
+				(length 5.08)
+				(name "VDDA/VREF+"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 25.4 180)
+				(length 5.08)
+				(name "PA0/WKUP"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 0 0)
+				(length 5.08)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 12.7 0)
+				(length 5.08)
+				(name "VDD"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 17.78 180)
+				(length 5.08)
+				(name "PB2/BOOT1"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 22.86 0)
+				(length 5.08)
+				(name "PC14/OSC32_IN"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 -7.62 180)
+				(length 5.08)
+				(name "VCAP_1"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -2.54 0)
+				(length 5.08)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "31"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 10.16 0)
+				(length 5.08)
+				(name "VDD"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 20.32 0)
+				(length 5.08)
+				(name "PC15/OSC32_OUT"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 10.16 180)
+				(length 5.08)
+				(name "PA13/JTMS-SWDIO"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "46"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -5.08 0)
+				(length 5.08)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "47"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 7.62 0)
+				(length 5.08)
+				(name "VDD"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "48"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 7.62 180)
+				(length 5.08)
+				(name "PA14/JTCK-SWCLK"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "49"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 33.02 0)
+				(length 5.08)
+				(name "PH0/OSC_IN"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 0 180)
+				(length 5.08)
+				(name "PA15/JTDI"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "50"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 5.08 180)
+				(length 5.08)
+				(name "PB3/JTDO-TRACESWO"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "55"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 2.54 180)
+				(length 5.08)
+				(name "PB4/NJTRST"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "56"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 30.48 0)
+				(length 5.08)
+				(name "PH1/OSC_OUT"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 20.32 180)
+				(length 5.08)
+				(name "BOOT0"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "60"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 -7.62 0)
+				(length 5.08)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "63"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -27.94 5.08 0)
+				(length 5.08)
+				(name "VDD"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "64"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 27.94 12.7 180)
+				(length 5.08)
+				(name "NRST"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "IC MCU STM32F446RET6 32BIT 512KB FLASH LQFP-64_2_1"
+			(polyline
+				(pts
+					(xy -22.86 38.1) (xy -22.86 -12.7) (xy 22.86 -12.7) (xy 22.86 38.1) (xy -22.86 38.1)
+				)
+				(stroke
+					(width 0)
+					(type default)
+					(color 72 72 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at 27.94 -5.08 180)
+				(length 5.08)
+				(name "VBAT"
+					(effects
+						(font
+							(size 1.905 1.905)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "IC OPAMP LM358 GEN PURP 2 CIRCUIT 8-SOIC"
 		(pin_names
 			(offset 0.635)
@@ -41702,7 +43100,7 @@
 			)
 		)
 		(property "Footprint" "CustomLibPcb:SOT_23_3"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41720,7 +43118,7 @@
 			)
 		)
 		(property "Description" "TRANS BJT PNP BC858 30V 0.1A SMD SOT-23-3"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41747,7 +43145,7 @@
 			)
 		)
 		(property "Category" "TRANSISTOR"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41756,7 +43154,7 @@
 			)
 		)
 		(property "Package" "SMD SOT-23-3"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41765,7 +43163,7 @@
 			)
 		)
 		(property "Part number 1" "BC858BLT3G"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41774,7 +43172,7 @@
 			)
 		)
 		(property "Manufacturer 1" "ONSEMI"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41783,7 +43181,7 @@
 			)
 		)
 		(property "Part number 2" "BC858BLT1G"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41792,7 +43190,7 @@
 			)
 		)
 		(property "Manufacturer 2" "ONSEMI"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41801,7 +43199,7 @@
 			)
 		)
 		(property "Part number 3" "BC858B,235"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41810,7 +43208,7 @@
 			)
 		)
 		(property "Manufacturer 3" "NEXPERIA"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41819,7 +43217,7 @@
 			)
 		)
 		(property "Part number 4" "BC858B,215"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41828,7 +43226,7 @@
 			)
 		)
 		(property "Manufacturer 4" "NEXPERIA"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41837,7 +43235,7 @@
 			)
 		)
 		(property "Voltage" "30V"
-			(at 0 8 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41846,7 +43244,7 @@
 			)
 		)
 		(property "Current" "0.1A"
-			(at 0 0 0)
+			(at -0.508 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41855,7 +43253,7 @@
 			)
 		)
 		(property "Type" "PNP"
-			(at -0.508 -1.27 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41864,7 +43262,7 @@
 			)
 		)
 		(property "Power" "0.25W"
-			(at -0.508 -1.27 0)
+			(at 0 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
